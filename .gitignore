@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/arturochavez.github.io/v17/.wsuo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/arturochavez.github.io/FileContentIndex/read.lock
+/.vs/arturochavez.github.io/FileContentIndex/d3b28228-7cce-4224-983f-59b0840d2eff.vsidx
+/.vs/arturochavez.github.io/FileContentIndex/41bc1ce8-5b4d-4222-bab1-381ee1241912.vsidx
+/.vs/arturochavez.github.io/FileContentIndex/96501ce4-9d2a-4e4e-82d3-1a817b7f65ab.vsidx
+/.vs/arturochavez.github.io/FileContentIndex/f926e198-1045-4434-a80c-e592408093b5.vsidx
